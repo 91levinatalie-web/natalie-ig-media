@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Which one is real?</title>
+</head>
+<body style="margin:0;padding:0;background:#FAF7F2;">
+<span style="display:none;max-height:0;overflow:hidden;opacity:0;">Both are AI. Both are me. &#183; &#1513;&#1514;&#1497;&#1492;&#1503; AI, &#1493;&#1513;&#1514;&#1497;&#1492;&#1503; &#1488;&#1504;&#1497;.</span>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FAF7F2;">
+<tr><td align="center" style="padding:24px 12px;">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:600px;background:#ffffff;border-radius:22px;overflow:hidden;" dir="rtl">
+<tr><td style="padding:0;">
+<img src="https://raw.githubusercontent.com/91levinatalie-web/natalie-ig-media/main/email/real-ai-club/hero.jpg" width="600" alt="Which one is real? &#1488;&#1497;&#1494;&#1493; &#1488;&#1502;&#1497;&#1514;&#1497;&#1514;?" style="display:block;width:100%;max-width:600px;height:auto;border:0;">
+</td></tr>
+<tr><td style="padding:26px 32px 4px;font-family:Arial,Helvetica,sans-serif;color:#2B2723;">
+<p dir="ltr" style="margin:0;font-size:22px;font-weight:bold;text-align:left;">Trick question. Neither.</p>
+<p dir="ltr" style="margin:4px 0 0;font-size:16px;line-height:1.6;text-align:left;">Both photos are AI. Both are me. No trip, no photographer.</p>
+<p dir="rtl" style="margin:16px 0 0;font-size:22px;font-weight:bold;text-align:right;">&#1513;&#1488;&#1500;&#1492; &#1502;&#1499;&#1513;&#1497;&#1500;&#1492;. &#1488;&#1507; &#1488;&#1495;&#1514;.</p>
+<p dir="rtl" style="margin:4px 0 0;font-size:17px;line-height:1.65;text-align:right;">&#1513;&#1514;&#1497; &#1492;&#1514;&#1502;&#1493;&#1504;&#1493;&#1514; &#1492;&#1503; AI, &#1493;&#1513;&#1514;&#1497;&#1492;&#1503; &#1488;&#1504;&#1497;. &#1489;&#1500;&#1497; &#1496;&#1497;&#1505;&#1492; &#1493;&#1489;&#1500;&#1497; &#1510;&#1500;&#1501;.</p>
+</td></tr>
+<tr><td style="padding:22px 32px 4px;font-family:Arial,Helvetica,sans-serif;color:#2B2723;">
+<p dir="ltr" style="margin:0;font-size:16px;line-height:1.6;text-align:left;">So I opened <b>Real AI Club</b>: AI photos of you that look real. Anywhere in the world.</p>
+<p dir="rtl" style="margin:10px 0 0;font-size:17px;line-height:1.65;text-align:right;">&#1488;&#1494; &#1508;&#1514;&#1495;&#1514;&#1497; &#1488;&#1514; <b dir="ltr" style="unicode-bidi:isolate;">Real AI Club</b>: &#1514;&#1502;&#1493;&#1504;&#1493;&#1514; AI &#1513;&#1500;&#1498; &#1513;&#1504;&#1512;&#1488;&#1493;&#1514; &#1488;&#1502;&#1497;&#1514;&#1497;&#1493;&#1514;. &#1489;&#1499;&#1500; &#1502;&#1511;&#1493;&#1501; &#1489;&#1506;&#1493;&#1500;&#1501;.</p>
+</td></tr>
+<tr><td style="padding:18px 24px 6px;">
+<img src="https://raw.githubusercontent.com/91levinatalie-web/natalie-ig-media/main/email/real-ai-club/grid.jpg" width="552" alt="The prompt library &#183; &#1505;&#1508;&#1512;&#1497;&#1497;&#1514; &#1492;&#1508;&#1512;&#1493;&#1502;&#1508;&#1496;&#1497;&#1501;" style="display:block;width:100%;max-width:552px;height:auto;border:0;border-radius:14px;">
+</td></tr>
+<tr><td dir="rtl" style="padding:20px 32px 4px;font-family:Arial,Helvetica,sans-serif;color:#2B2723;text-align:right;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" dir="rtl">
+<tr><td width="40" valign="top" style="padding:0 0 14px 10px;"><div style="width:30px;height:30px;line-height:30px;border-radius:50%;background:#FFF5CF;border:2px solid #2B2723;text-align:center;font-weight:bold;font-size:15px;">23</div></td>
+<td valign="top" style="padding:0 0 14px;font-size:16px;line-height:1.5;"><span dir="ltr" style="display:block;text-align:left;"><b>23 prompts that already work</b>, each with the exact settings.</span><span style="display:block;">23 &#1508;&#1512;&#1493;&#1502;&#1508;&#1496;&#1497;&#1501; &#1513;&#1499;&#1489;&#1512; &#1506;&#1493;&#1489;&#1491;&#1497;&#1501;, &#1499;&#1500; &#1488;&#1495;&#1491; &#1506;&#1501; &#1492;&#1492;&#1490;&#1491;&#1512;&#1493;&#1514; &#1492;&#1502;&#1491;&#1493;&#1497;&#1511;&#1493;&#1514;.</span></td></tr>
+<tr><td width="40" valign="top" style="padding:0 0 14px 10px;"><div style="width:30px;height:30px;line-height:30px;border-radius:50%;background:#FCEAE4;border:2px solid #2B2723;text-align:center;font-weight:bold;font-size:15px;">17</div></td>
+<td valign="top" style="padding:0 0 14px;font-size:16px;line-height:1.5;"><span dir="ltr" style="display:block;text-align:left;"><b>17 fixes</b> for what makes AI look fake.</span><span style="display:block;">17 &#1514;&#1497;&#1511;&#1493;&#1504;&#1497;&#1501; &#1500;&#1502;&#1492; &#1513;&#1502;&#1505;&#1490;&#1497;&#1512; AI.</span></td></tr>
+<tr><td width="40" valign="top" style="padding:0 0 4px 10px;"><div style="width:30px;height:30px;line-height:30px;border-radius:50%;background:#EAF3E5;border:2px solid #2B2723;text-align:center;font-weight:bold;font-size:13px;">&#1488;&#1523;</div></td>
+<td valign="top" style="padding:0 0 4px;font-size:16px;line-height:1.5;"><span dir="ltr" style="display:block;text-align:left;"><b>New prompts every Sunday</b> and a monthly live "Fix my image".</span><span style="display:block;">&#1508;&#1512;&#1493;&#1502;&#1508;&#1496;&#1497;&#1501; &#1495;&#1491;&#1513;&#1497;&#1501; &#1499;&#1500; &#1497;&#1493;&#1501; &#1512;&#1488;&#1513;&#1493;&#1503;, &#1493;&#1508;&#1506;&#1501; &#1489;&#1495;&#1493;&#1491;&#1513; &#1500;&#1497;&#1497;&#1489; "Fix my image".</span></td></tr>
+</table>
+</td></tr>
+<tr><td style="padding:20px 32px 0;font-family:Arial,Helvetica,sans-serif;color:#2B2723;text-align:center;">
+<p dir="ltr" style="margin:0;font-size:26px;font-weight:bold;">$19 &#183; once</p><p dir="rtl" style="margin:2px 0 0;font-size:18px;"><span dir="ltr" style="unicode-bidi:isolate;">$19</span> &#1508;&#1506;&#1501; &#1488;&#1495;&#1514;</p>
+</td></tr>
+<tr><td align="center" style="padding:16px 32px 8px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+<td align="center" bgcolor="#FBE38E" style="border-radius:999px;box-shadow:inset 0 0 0 2px #2B2723;">
+<a href="https://www.skool.com/real-ai-club-9022/about" style="display:inline-block;padding:15px 38px;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#2B2723;text-decoration:none;border-radius:999px;">Join Real AI Club &#183; &#1500;&#1492;&#1510;&#1496;&#1512;&#1508;&#1493;&#1514;</a>
+</td></tr></table>
+</td></tr>
+<tr><td style="padding:22px 32px 8px;font-family:Arial,Helvetica,sans-serif;color:#2B2723;">
+<p dir="ltr" style="margin:0;font-size:15px;line-height:1.6;text-align:left;">P.S. Reply and tell me: did you guess A or B?</p>
+<p dir="rtl" style="margin:6px 0 0;font-size:16px;line-height:1.6;text-align:right;">&#1504;.&#1489;. &#1514;&#1506;&#1504;&#1497; &#1500;&#1497;: &#1504;&#1497;&#1495;&#1513;&#1514; A &#1488;&#1493; B?</p>
+<p dir="rtl" style="margin:16px 0 0;font-size:16px;text-align:right;">&#1504;&#1496;&#1500;&#1497;<br><a href="https://instagram.com/natalie_levi_aharon" style="color:#2B2723;"><span dir="ltr" style="unicode-bidi:isolate;">@natalie_levi_aharon</span></a></p>
+</td></tr>
+<tr><td style="padding:18px 32px 26px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td style="border-top:1px solid #E6DED2;font-size:0;line-height:0;">&nbsp;</td></tr></table>
+<p dir="rtl" style="margin:12px 0 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.5;color:#8A8178;text-align:center;">&#1511;&#1497;&#1489;&#1500;&#1514; &#1488;&#1514; &#1492;&#1502;&#1497;&#1497;&#1500; &#1499;&#1497; &#1504;&#1512;&#1513;&#1502;&#1514; &#1500;&#1500;&#1493;&#1495; &#1492;&#1514;&#1493;&#1499;&#1503; &#1500;&#1513;&#1489;&#1493;&#1506;. &#1488;&#1508;&#1513;&#1512; &#1500;&#1492;&#1505;&#1497;&#1512; &#1489;&#1499;&#1500; &#1512;&#1490;&#1506; &#1489;&#1511;&#1497;&#1513;&#1493;&#1512; &#1513;&#1489;&#1514;&#1495;&#1514;&#1497;&#1514;.</p>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</body>
+</html>
